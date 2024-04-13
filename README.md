@@ -41,10 +41,13 @@ You may follow this link to explore more settings and the compared methods.
 
 ### Citation
 ```
-@article{su2023unraveling,
+@inproceedings{su2024unraveling,
   title={Unraveling Batch Normalization for Realistic Test-Time Adaptation},
   author={Su, Zixian and Guo, Jingwei and Yao, Kai and Yang, Xi and Wang, Qiufeng and Huang, Kaizhu},
-  journal={arXiv preprint arXiv:2312.09486},
-  year={2023}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={13},
+  pages={15136--15144},
+  year={2024}
 }
 ```
